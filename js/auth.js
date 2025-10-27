@@ -18,3 +18,4 @@ function login() {
     errorBox.style.display = 'block';
   }
 }
+}
